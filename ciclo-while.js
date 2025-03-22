@@ -1,4 +1,4 @@
-console.log("ciclo  WHILE")
+console.log("ciclo  while")
 let i=1
 while(i<10){
     console.log("numero:" ,i)  
